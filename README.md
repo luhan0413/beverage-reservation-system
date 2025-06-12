@@ -51,19 +51,3 @@
     1. 開啟瀏覽器進入 [http://localhost:3000](http://localhost:3000)
 
     2. 選擇身份（顧客/員工/經理）登入體驗各角色功能
-
----
-
-## 使用流程
-
-### 顧客
-![顧客流程圖](https://drive.google.com/file/d/1nAKFzwrh81gDE-cCjZ7m7rT1MSuZAs_r/view?usp=drive_link)
-
-### 員工
-![員工流程圖](https://drive.google.com/file/d/1RmFsaMma32LlE1n5C4WS14Oa98syD5U7/view?usp=drive_link)
-
-
-### 經理
-![經理流程圖](https://ibb.co/VctzqCpR)
-
----

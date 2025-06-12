@@ -64,6 +64,6 @@
 
 
 ### 經理
-![經理流程圖](https://drive.google.com/file/d/1Vjuxn9RYZwgnMHW64221E3gAMuozbNsN/view?usp=drive_link)
+![經理流程圖](https://ibb.co/VctzqCpR)
 
 ---
